@@ -1,52 +1,52 @@
-<mxfile host="app.diagrams.net" modified="2024-04-26T12:12:02.189Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="NuEi3CyDqQx1Xzi21JmG" version="24.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-26T13:53:18.410Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="GCgOiuN6fUNIyZVxUcvO" version="24.3.0" type="github">
   <diagram name="Page-1" id="kURhtWZ89QNH3HWvjSlb">
     <mxGraphModel dx="1434" dy="900" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="XO15FXXhhtoUWRFWPJUK-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="90" y="220" width="710" height="460" as="geometry" />
+          <mxGeometry x="70" y="180" width="740" height="500" as="geometry" />
         </mxCell>
         <mxCell id="XO15FXXhhtoUWRFWPJUK-2" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="150" y="280" width="180" height="180" as="geometry" />
+          <mxGeometry x="130" y="262" width="200" height="200" as="geometry" />
         </mxCell>
         <object label="" id="XO15FXXhhtoUWRFWPJUK-4">
           <mxCell style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-            <mxGeometry x="350" y="280" width="180" height="180" as="geometry" />
+            <mxGeometry x="340" y="262" width="200" height="200" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="XO15FXXhhtoUWRFWPJUK-5" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="550" y="280" width="180" height="180" as="geometry" />
+          <mxGeometry x="550" y="262" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="XO15FXXhhtoUWRFWPJUK-6" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="150" y="470" width="180" height="180" as="geometry" />
+          <mxGeometry x="130" y="470" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="XO15FXXhhtoUWRFWPJUK-7" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="350" y="470" width="180" height="180" as="geometry" />
+          <mxGeometry x="344" y="470" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="XO15FXXhhtoUWRFWPJUK-8" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="550" y="470" width="180" height="180" as="geometry" />
+          <mxGeometry x="550" y="470" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="XO15FXXhhtoUWRFWPJUK-9" value="&lt;h3&gt;Using Chaos Engineering to validate, verify, and explore system&lt;br&gt;tolerances&lt;/h3&gt;" style="text;align=center;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="230" y="240" width="460" height="30" as="geometry" />
+          <mxGeometry x="220" y="190" width="460" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XO15FXXhhtoUWRFWPJUK-10" value="&lt;h4&gt;Problem&lt;/h4&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="160" y="290" width="160" height="160" as="geometry" />
+        <mxCell id="XO15FXXhhtoUWRFWPJUK-10" value="&lt;h4&gt;Problem&lt;/h4&gt;&lt;div style=&quot;text-align: left;&quot;&gt;1. The automobile Industry faces challenges when evaluating the core system&#39;s tolerance levels.&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;2.Conventional testing techniques may fail to recognize how system reacts to disturbances, which may pose risks and lead to&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;ineffective system validation and verification procedures&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="270" width="180" height="170" as="geometry" />
         </mxCell>
         <mxCell id="XO15FXXhhtoUWRFWPJUK-11" value="&lt;h4&gt;Input Knowledge&lt;/h4&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="160" y="480" width="160" height="160" as="geometry" />
+          <mxGeometry x="170" y="450" width="160" height="160" as="geometry" />
         </mxCell>
         <mxCell id="XO15FXXhhtoUWRFWPJUK-12" value="&lt;h4 style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Key Concepts&lt;/span&gt;&lt;/h4&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;1.Chaos Engineering&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;2.Fault Injection&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;3.Exception-Handing&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;4.Validation and Verification&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;5.System Resilience&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="360" y="480" width="160" height="160" as="geometry" />
+          <mxGeometry x="370" y="450" width="160" height="160" as="geometry" />
         </mxCell>
         <mxCell id="XO15FXXhhtoUWRFWPJUK-13" value="&lt;h4&gt;Output Knowledge&lt;/h4&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="560" y="480" width="160" height="160" as="geometry" />
+          <mxGeometry x="570" y="490" width="160" height="160" as="geometry" />
         </mxCell>
         <mxCell id="XO15FXXhhtoUWRFWPJUK-14" value="&lt;h4&gt;Research Process&lt;/h4&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="360" y="290" width="160" height="160" as="geometry" />
+          <mxGeometry x="360" y="275" width="160" height="160" as="geometry" />
         </mxCell>
         <mxCell id="XO15FXXhhtoUWRFWPJUK-15" value="&lt;h4&gt;Solution&lt;/h4&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="560" y="290" width="160" height="160" as="geometry" />
+          <mxGeometry x="570" y="280" width="160" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
